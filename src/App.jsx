@@ -9,8 +9,8 @@ function App() {
   return (
     <>
     
-      <h1>Test 1.0</h1>
-      <h1>AWS Hosting</h1>
+      <h1>Test 1.1</h1>
+      <h1>AWS Hosting Tutorial</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
